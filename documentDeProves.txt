@@ -1,4 +1,4 @@
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdfasdfsfd soc el "tiu 1"
 definir variable:
 git config --global user.email manel@manel.com
 
