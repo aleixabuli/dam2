@@ -1,0 +1,36 @@
+
+definir variable:
+git config --global user.email manel@manel.com
+
+mostrar variables i els seus valors:
+git config --list
+
+git init
+
+git status
+
+arxius nous: Untracked
+arxius que s'han modificat: Unstaged
+
+"git add" afegeix a la "Stage area" els canvis
+"git commit" posa al repository el que hi hagi a la "Stage area"
+
+exemple per pujar al repositori:
+git commit -m "Primera pujada del projecte"
+
+veure la història dels canvis
+git log
+
+per recuperar una versió anterior:
+git checkout numero
+
+per tornar a la versió més recent
+git checkout MASTER
+
+crear una branca de una versió amb un nom 
+git branch nom
+
+git merge nomDelTagOBrancaAmbElQualEsVolMesclarLaVersioActual
+
+per penjar-ho al repositori web:
+git clone https://github.com/aleixabuli/dam2.git
