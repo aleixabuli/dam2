@@ -34,3 +34,8 @@ git merge nomDelTagOBrancaAmbElQualEsVolMesclarLaVersioActual
 
 per penjar-ho al repositori web:
 git clone https://github.com/aleixabuli/dam2.git
+
+
+
+
+ajsdkfkhgaskgfjgajdgaljsglajsghlshdgljadsg SOC "el segon tiu"
