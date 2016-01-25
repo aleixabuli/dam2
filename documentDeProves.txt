@@ -4,7 +4,7 @@ git config --global user.email manel@manel.com
 
 mostrar variables i els seus valors:
 git config --list
-
+CANVIS
 git init
 
 git status
