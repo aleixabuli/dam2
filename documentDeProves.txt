@@ -39,3 +39,5 @@ git clone https://github.com/aleixabuli/dam2.git
 
 
 ajsdkfkhgaskgfjgajdgaljsglajsghlshdgljadsg SOC "el segon tiu"
+
+canvi a la mv1.0
